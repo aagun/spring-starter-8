@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.0</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
-	<groupId>id.co.ahm.data.karyawan</groupId>
-	<artifactId>data-karyawan</artifactId>
+	<groupId>domain.project.name</groupId>
+	<artifactId>project-name</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Data Karyawan</name>
-	<description>Aplikasi Data Karyawan</description>
+	<name>Project Name</name>
+	<description>Project Name Application Description</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
